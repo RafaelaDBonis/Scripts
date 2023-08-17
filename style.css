@@ -1,0 +1,23 @@
+body{
+    background-color: #D7B19D;
+}
+
+h1{
+    font-family: Tilt Prism;
+    color: #402218;
+}
+
+div{
+    margin-top:auto;
+    margin-left: auto;
+    text-align: center;
+}
+.container{
+    background-color: #865439;
+}
+
+table{
+    border: 2px inset rgb(87, 33, 17);
+    border-collapse: collapse;
+
+}
