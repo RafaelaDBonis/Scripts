@@ -1,4 +1,4 @@
-# Anotações sobre CSS (prova)
+# Anotações HTML/CSS/JS/PHP
 
 Tipos de CSS:
   * Inline
@@ -11,3 +11,12 @@ ponto = classe
 
 * input -> text
 * input -> submit
+
+# PHP
+
+*Var & Concatenação*  
+```PHP
+$nome = "rafa";
+$sobrenome = "de Bonis";
+
+echo $nome . $sobrenome;
